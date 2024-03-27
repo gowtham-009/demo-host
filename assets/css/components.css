@@ -1,0 +1,10 @@
+@media(max-width:766px){
+    .pn{
+        display: none;
+    }
+    .ins{
+        width: 100%;
+        
+    }
+    
+}
